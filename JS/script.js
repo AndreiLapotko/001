@@ -1,4 +1,4 @@
-//"use strict";
+"use strict";
 const result = confirm('Are you here?');
 result ? console.log('Да') : console.log('Нет');
 
